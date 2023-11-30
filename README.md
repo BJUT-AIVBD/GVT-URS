@@ -28,7 +28,7 @@ For example, when dataset is BJUT-URD and method is GVT, we can run
 
 ```bash
 python tools/train.py \
-  --config configs/gvt/upernet_dilatecswin_dep_realshift_preg_512×512_160k.py \
+  --config configs/gvt/upernet_dcswin_small_96c_dilate2.py \
   --work-dir submits/gvt \
   --load_from checkpoints/swin/models \
 ```
@@ -41,7 +41,7 @@ For example, when dataset is BJUT-URD and method is GVT, we can run
 
 ```bash
 python tools/test.py \
-  --config configs/gvt/upernet_dilatecswin_dep_realshift_preg_512×512_160k.py \
+  --config configs/gvt/upernet_dcswin_small_96c_dilate2.py \
   --checkpoint submits/gvt \
   --show_dir checkpoints/swin/models \
 ```
