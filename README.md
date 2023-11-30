@@ -30,7 +30,7 @@ For example, when dataset is BJUT-URD and method is GVT, we can run
 python tools/train.py \
   --config configs/gvt/upernet_dcswin_small_96c_dilate2.py \
   --work-dir submits/gvt \
-  --load_from checkpoints/swin/models \
+  --load_from path/to/checkpoints \
 ```
 
 
