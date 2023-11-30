@@ -7,7 +7,7 @@
 conda env create -n gvt python=3.8
 conda install pytorch=1.7.1 torchvision=0.8.2 cudatoolkit=11.0
 pip install mmcv-full==1.3.0
-cd path/to/sources
+cd to/root/path
 pip install -e .
 ```
 
