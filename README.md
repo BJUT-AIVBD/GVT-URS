@@ -17,7 +17,7 @@ pip install -e .
 
 ### Source of Pre-trained models
 
-* Transformer-based models can be found in [./checkpoints](https://github.com/BJUT-AIVBD/GVT/checkpoints).
+* Transformer-based models can be found in [Google Dirve](https://drive.google.com/drive/folders/19H5O4YtIxIXaYdrS87Mh5ao1etjo3935?usp=drive_link).
 * ResNet: pre-trained ResNet50 supported by Pytorch.
 
 
