@@ -30,7 +30,7 @@ For example, when dataset is BJUT-URD and method is GVT, we can run
 python tools/train.py \
   --config configs/gvt/upernet_dcswin_small_96c_dilate2.py \
   --work-dir submits/gvt \
-  --load_from path/to/checkpoints \
+  --load_from path/to/pre-trained/model \
 ```
 
 
@@ -43,7 +43,7 @@ For example, when dataset is BJUT-URD and method is GVT, we can run
 python tools/test.py \
   --config configs/gvt/upernet_dcswin_small_96c_dilate2.py \
   --checkpoint path/to/gvt/model \
-  --show_dir checkpoints/swin/models \
+  --show_dir path/to/save/segmentation/results \
 ```
 
 
