@@ -42,7 +42,7 @@ For example, when dataset is BJUT-URD and method is GVT, we can run
 ```bash
 python tools/test.py \
   --config configs/gvt/upernet_dcswin_small_96c_dilate2.py \
-  --checkpoint submits/gvt \
+  --checkpoint path/to/gvt/model \
   --show_dir checkpoints/swin/models \
 ```
 
