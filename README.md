@@ -59,7 +59,9 @@ The code is developed based on the following repositories. We appreciate their n
 | Method           | Repository                                            |
 | ---------------- | ----------------------------------------------------- |
 | Swin Transformer | https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation |
-| UPerNet          | https://github.com/CSAILVision/unifiedparsing       
+| UPerNet          | https://github.com/CSAILVision/unifiedparsing |
+| CSwin          | https://github.com/microsoft/CSWin-Transformer |
+| PVT          | https://gitcode.com/mirrors/whai362/pvt |
 
 ## Cite this repository
 If you use this software in your work, please cite it using the following metadata.
