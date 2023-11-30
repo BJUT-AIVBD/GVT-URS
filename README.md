@@ -1,2 +1,2 @@
 # GVT
-# The code will be publised in the future.
+# The code will be published in the future.
