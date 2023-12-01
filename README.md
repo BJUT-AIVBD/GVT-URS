@@ -65,4 +65,4 @@ The code is developed based on the following repositories. We appreciate their n
 
 ## Cite this repository
 If you use this software in your work, please cite it using the following metadata.
-Wensheng Li, Jing Zhang. (2023). GVT by BJUT-VI&VBD [Computer software]. https://github.com/BJUT-AIVBD/GVT-URS
+Wensheng Li, Jing Zhang, Jiafeng Li, and Li Zhuo. (2023). GVT-URS by BJUT-AI&VBD [Computer software]. https://github.com/BJUT-AIVBD/GVT-URS
