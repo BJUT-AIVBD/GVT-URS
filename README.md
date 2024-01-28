@@ -47,6 +47,25 @@ python tools/test.py \
 ```
 
 
+# Code Functionality Explanation
+
+This document provides a detailed explanation of the code located in the `mmseg/backbone` directory with the filename `swin_transformer_CrossShifted_dilation_DPE_realshift_preg.py`. This code is an improvement upon the Swin Transformer and includes three core functions: `CrossShiftAttention`, `CrossShiftTransformerBlock`, and `PixelRegionalBlock`.
+
+## CrossShiftAttention
+
+This function is an implementation of DCWin-Attention, which is designed to address deformation issues.
+
+## CrossShiftTransformerBlock
+
+It incorporates the shifted cross-window mechanism to tackle occlusion problems.
+
+## PixelRegionalBlock
+
+This function is an implementation of the pixel regional module, aiming to address roads with fuzzy edges.
+
+The integration of these core functions allows our code to comprehensively address various visual challenges, including deformation, occlusion, and blur. We encourage users to delve into the implementation of these functions to better understand their working principles and apply them flexibly in their own projects.
+
+
 
 ## Hyperparameters Configuration
 
