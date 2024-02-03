@@ -63,7 +63,7 @@ It incorporates the shifted cross-window mechanism to tackle occlusion problems.
 
 This function is an implementation of the pixel regional module, aiming to address roads with fuzzy edges.
 
-The integration of these core functions allows our code to comprehensively address various visual challenges, including deformation, occlusion, and blur. We encourage users to delve into the implementation of these functions to better understand their working principles and apply them flexibly in their own projects.
+These functions correspond to three improvements upon the Swin Transformer, which can be utilized to achieve better performance during unpaved road segmentation.
 
 
 
