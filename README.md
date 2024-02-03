@@ -49,7 +49,7 @@ python tools/test.py \
 
 # Code Functionality Explanation
 
-This document provides a detailed explanation of the code located in the `mmseg/backbone` directory with the filename `swin_transformer_CrossShifted_dilation_DPE_realshift_preg.py`. This code is an improvement upon the Swin Transformer and includes three core functions: `CrossShiftAttention`, `CrossShiftTransformerBlock`, and `PixelRegionalBlock`.
+This document provides a detailed explanation of the code located in the `mmseg/backbone` directory with the filename `swin_transformer_CrossShifted_dilation_DPE_realshift_preg.py`. This code is an improvement upon the Swin Transformer and includes three core functions: `CrossShiftAttention`, `CrossShiftTransformerBlock`, and `PixelRegionalBlock`. These functions correspond to three improvements upon the Swin Transformer, which can be utilized to achieve better performance during unpaved road segmentation.
 
 ## CrossShiftAttention
 
@@ -62,8 +62,6 @@ It incorporates the shifted cross-window mechanism to tackle occlusion problems.
 ## PixelRegionalBlock
 
 This function is an implementation of the pixel regional module, aiming to address roads with fuzzy edges.
-
-These functions correspond to three improvements upon the Swin Transformer, which can be utilized to achieve better performance during unpaved road segmentation.
 
 
 
