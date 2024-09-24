@@ -81,6 +81,5 @@ The code is developed based on the following repositories. We appreciate their n
 | PVT          | https://gitcode.com/mirrors/whai362/pvt |
 
 ## Cite this repository
-If you use this software in your work, please cite it using the following metadata.
-
+If you use this software in your work, please cite it using the following metadata:
 Li, W., Zhang, J., Li, J. et al. Unpaved road segmentation of UAV imagery via a global vision transformer with dilated cross window self-attention for dynamic map. Vis Comput (2024). https://doi.org/10.1007/s00371-024-03416-0
