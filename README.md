@@ -1,4 +1,4 @@
-# Unpaved Road Segmentation of UAV Imagery via a Global Vision Transformer with Dilated Cross Window Self-Attention for Path Navigation
+# Unpaved Road Segmentation of UAV Imagery via a Global Vision Transformer with Dilated Cross Window Self-Attention for Dynamic Map
 
 
 ## Installation
@@ -82,4 +82,4 @@ The code is developed based on the following repositories. We appreciate their n
 
 ## Cite this repository
 If you use this software in your work, please cite it using the following metadata.
-Wensheng Li, Jing Zhang, Jiafeng Li, and Li Zhuo. (2023). GVT-URS by BJUT-AI&VBD [Computer software]. https://github.com/BJUT-AIVBD/GVT-URS
+Li, W., Zhang, J., Li, J. et al. Unpaved road segmentation of UAV imagery via a global vision transformer with dilated cross window self-attention for dynamic map. Vis Comput (2024). https://doi.org/10.1007/s00371-024-03416-0
